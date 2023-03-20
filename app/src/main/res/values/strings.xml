@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Countries</string>
+    <string name="retry">Retry</string>
+    <string name="no_internet">No Internet Connection.\nConnect to internet and retry!</string>
+    <string name="loading_message">Please wait while we fetch your data…</string>
+</resources>
